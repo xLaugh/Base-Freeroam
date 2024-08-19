@@ -3,7 +3,7 @@
 
 Base Freeroam simple développer par Laugh
 
-# Installation
+# 🌟Installation
 
 1. Télécharger cela : https://github.com/citizenfx/cfx-server-data
 
@@ -20,10 +20,26 @@ Base Freeroam simple développer par Laugh
 
 3. Importer les resources, le server.cfg, permissions.cfg et le sql dans votre Serveur !
 
-# Vidéo
+# 💫Ressources
+
+- cron
+- es_extended
+- esx_menu_default
+- esx_menu_dialog
+- esx_menu_list
+- esx_notify
+- skinchanger
+- oxmysql
+- dpemotes
+- entrepot_core
+- GTA-6Loading
+- vMenu
+- bob74_ipl
+
+# 📸Vidéo
 
 https://youtu.be/gqs0KnDOma4
 
-# Crédits
+# 📩Crédits
 
 Loading Screen par Txpac : https://youtu.be/jYX6rmy3mNY
