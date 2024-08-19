@@ -1,13 +1,13 @@
 
-# Base Freeroam - discord.gg/6wdkx6X
+# 🌁Base Freeroam - discord.gg/6wdkx6X
 
 Base Freeroam simple développer par Laugh
 
 # Installation
 
-Télécharger cela : https://github.com/citizenfx/cfx-server-data
+1. Télécharger cela : https://github.com/citizenfx/cfx-server-data
 
-Metter les ressources suivantes dans le dossier [1.System] 
+2. Metter les ressources suivantes dans un dossier [1.System] 
 
 - chat
 - hardcap
@@ -18,4 +18,12 @@ Metter les ressources suivantes dans le dossier [1.System]
 - webpack
 - yarn
 
+3. Importer les resources, le server.cfg, permissions.cfg et le sql dans votre Serveur !
+
 # Vidéo
+
+https://youtu.be/gqs0KnDOma4
+
+# Crédits
+
+Loading Screen par Txpac : https://youtu.be/jYX6rmy3mNY
